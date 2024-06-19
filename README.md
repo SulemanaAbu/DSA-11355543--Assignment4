@@ -13,38 +13,38 @@ Supported Algorithms
 Brute Force Algorithms
 Simple Search
 
-## Description: Searches for a key in an array.
+### Description: Searches for a key in an array.
 Input Example: 1 2 3 4 5 (array) and 3 (key).
 Expected Output: Index of 3: 2.
 ### Naive String Matching
 
-## Description: Finds all occurrences of a pattern in a text.
-Input Example: hello world,world (text,pattern).
+### Description: Finds all occurrences of a pattern in a text.
+Input Example: hello world,world (text,pattern).      
 Expected Output: Pattern found at positions: [6].
 ### Brute Force Cryptographic Attack
 
-## Description: Finds the original string by matching hash.
+### Description: Finds the original string by matching hash.
 Input Example: Hash of "abc".
 Expected Output: Original string: abc.
 ### TSP Optimization Problem
 
-## Description: Finds the minimum cost of visiting all cities (Traveling Salesman Problem).
+### Description: Finds the minimum cost of visiting all cities (Traveling Salesman Problem).
 Input Example: N/A (uses a default graph).
 Expected Output: Minimum cost: X.
 Exhaustive Search Algorithms
 ### Backtracking (N-Queens)
 
-## Description: Solves the N-Queens problem.
+### Description: Solves the N-Queens problem.
 Input Example: 4 (number of queens).
 Expected Output: Number of solutions: 2.
 ### Branch and Bound (Knapsack)
 
-## Description: Solves the Knapsack problem to maximize value.
+### Description: Solves the Knapsack problem to maximize value.
 Input Example: 1 2 3 4,2 4 4 5 (weights, values) and 5 (capacity).
 Expected Output: Maximum value: X.
 ### Dynamic Programming (Fibonacci)
 
-## Description: Computes the N-th Fibonacci number.
+### Description: Computes the N-th Fibonacci number.
 Input Example: 10.
 Expected Output: Fibonacci number: 55.
 ### Depth-First Search (DFS)
@@ -54,7 +54,7 @@ Input Example: N/A.
 Expected Output: DFS logic not implemented in this example..
 ### Breadth-First Search (BFS)
 
-## Description: Placeholder for BFS logic (not implemented).
+### Description: Placeholder for BFS logic (not implemented).
 Input Example: N/A.
 Expected Output: BFS logic not implemented in this example..
 
