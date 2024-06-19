@@ -1,4 +1,4 @@
-﻿# DSA-11355543--Assignment4
+﻿# DSA-Assignment4
 # Overview
 
 The Algorithm Application is a Java-based GUI application that allows users to execute various brute force and exhaustive search algorithms. The application supports different types of algorithms and measures their execution time. After each execution, users can choose to either run another algorithm or quit the application.
