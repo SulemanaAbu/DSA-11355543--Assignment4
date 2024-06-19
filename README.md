@@ -97,8 +97,3 @@ The application uses System.nanoTime() to measure the execution time.
 The input format must be followed as described for each algorithm to avoid errors.
 Placeholder logic for DFS and BFS can be implemented similarly.
 
-### Future Enhancements
-Implement missing logic for DFS and BFS.
-Add more algorithms and their explanations.
-Improve the GUI for better user experience.
-Add validation and error handling for user inputs.

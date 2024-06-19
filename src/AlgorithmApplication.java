@@ -6,7 +6,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.*;
 import java.util.List;
-//11355543--SULEMANA ABUBAKAR SADDIQUE
+
 public class AlgorithmApplication extends JFrame implements ActionListener {
     private JTextArea inputArea;
     private JButton executeButton;
